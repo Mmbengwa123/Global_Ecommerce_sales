@@ -1,0 +1,1 @@
+CREATE DATABASE Global_ECommerse_Sales;
